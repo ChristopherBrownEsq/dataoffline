@@ -60,7 +60,7 @@
 		if (checkMyNet.Online() || !window.sessionStorage) {
 		
 			
-	// CUSTOM AJAX POST//////////////
+	// AJAX POST - SEND IT OFF TO connect_insert.php //////////////
 
 		var hr = new XMLHttpRequest();
 		// Create some variables we need to send to our PHP file
