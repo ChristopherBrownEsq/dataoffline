@@ -65,7 +65,7 @@
 		var hr = new XMLHttpRequest();
 		// Create some variables we need to send to our PHP file
 		//var url = "my_parse_file.php";
-		var url = "POST_php/connect_insert.php";
+		var url = "connect_insert.php";
 		var fn = document.getElementById("first_name").value;
 		var ln = document.getElementById("last_name").value;
 		var mn = document.getElementById("mobile").value;
